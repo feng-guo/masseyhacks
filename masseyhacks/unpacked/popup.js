@@ -1,8 +1,8 @@
-function parse(parser, doc)
+function parse(parser, doc) {
   var parser = new DOMParser();
   var doc = parser.parseFromString(stringContainingHTMLSource, "text/html");
   if (input in doc) {
-    alert("TRIGGER WARNING REEEEEEEEE")
-  }
+    alert("TRIGGER WARNING REEEEEEEEE");
+  }}
 
-function inputBox()
+function inputBox(){
