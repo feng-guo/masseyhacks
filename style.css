@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #34B534;
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
 }
@@ -20,7 +20,7 @@ header {
   width: 100%;
   padding-bottom: 10px;
   padding-top: 15px;
-  font-family: "Comic Sans MS", serif;
+  font-family: "Lucida Sans Unicode", sans-serif;
   text-align: center;
 }
 
